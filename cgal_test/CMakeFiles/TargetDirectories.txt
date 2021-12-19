@@ -1,5 +1,0 @@
-/home/redback/Redback_ControlSystems/cgal_test/CMakeFiles/rebuild_cache.dir
-/home/redback/Redback_ControlSystems/cgal_test/CMakeFiles/cgal_check_build_system.dir
-/home/redback/Redback_ControlSystems/cgal_test/CMakeFiles/ALL_CGAL_TARGETS.dir
-/home/redback/Redback_ControlSystems/cgal_test/CMakeFiles/edit_cache.dir
-/home/redback/Redback_ControlSystems/cgal_test/CMakeFiles/cgal_implicit_sphere.dir

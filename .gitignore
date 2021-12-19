@@ -1,3 +1,10 @@
+# Paths
+redback_ws/build/
+redback_ws/install/
+redback_ws/log/
+cgal_test_non-node/
+cgal_test/
+
 # Prerequisites
 *.d
 

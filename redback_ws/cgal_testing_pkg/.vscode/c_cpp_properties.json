@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/redback/nav2_galactic/**",
+                "/opt/ros/galactic/include/**",
+                "/opt/ros/galactic/include/rclcpp/**",
+                "/home/redback/Redback_ControlSystems/redback_ws/cgal_testing_pkg/include/**",
+                "/home/redback/Redback_ControlSystems/redback_ws/src/control_systems_pkg/include/**",
+                "/usr/include/**",
+                "${workspaceFolder}"
+            ],
+            "name": "ROS"
+        }
+    ],
+    "version": 4
+}
