@@ -9,6 +9,7 @@ class CGALTester : public rclcpp::Node
   public:
     CGALTester() : Node("cgal_testing")
     {    
+      
     }
 
   private:
