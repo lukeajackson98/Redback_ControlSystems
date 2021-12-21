@@ -1,6 +1,0 @@
-Invoking command in '/home/redback/Redback_ControlSystems/redback_ws/build/CGAL': /usr/bin/cmake /home/redback/Redback_ControlSystems/redback_ws/src/cgal -DCMAKE_INSTALL_PREFIX=/home/redback/Redback_ControlSystems/redback_ws/install/CGAL
-Invoked command in '/home/redback/Redback_ControlSystems/redback_ws/build/CGAL' returned '0': /usr/bin/cmake /home/redback/Redback_ControlSystems/redback_ws/src/cgal -DCMAKE_INSTALL_PREFIX=/home/redback/Redback_ControlSystems/redback_ws/install/CGAL
-Invoking command in '/home/redback/Redback_ControlSystems/redback_ws/build/CGAL': /usr/bin/cmake --build /home/redback/Redback_ControlSystems/redback_ws/build/CGAL -- -j6 -l6
-Invoked command in '/home/redback/Redback_ControlSystems/redback_ws/build/CGAL' returned '0': /usr/bin/cmake --build /home/redback/Redback_ControlSystems/redback_ws/build/CGAL -- -j6 -l6
-Invoking command in '/home/redback/Redback_ControlSystems/redback_ws/build/CGAL': /usr/bin/cmake --install /home/redback/Redback_ControlSystems/redback_ws/build/CGAL
-Invoked command in '/home/redback/Redback_ControlSystems/redback_ws/build/CGAL' returned '0': /usr/bin/cmake --install /home/redback/Redback_ControlSystems/redback_ws/build/CGAL

@@ -1,4 +1,0 @@
-source;share/CGAL/hook/cmake_module_path1.ps1
-source;share/CGAL/hook/cmake_prefix_path.ps1
-source;share/CGAL/hook/cmake_prefix_path.dsv
-source;share/CGAL/hook/cmake_prefix_path.sh
