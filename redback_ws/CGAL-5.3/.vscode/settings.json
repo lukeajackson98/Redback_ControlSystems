@@ -1,0 +1,13 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/redback/nav2_galactic/install/dwb_msgs/lib/python3.8/site-packages",
+        "/home/redback/nav2_galactic/install/nav_2d_msgs/lib/python3.8/site-packages",
+        "/home/redback/nav2_galactic/build/nav2_simple_commander",
+        "/home/redback/nav2_galactic/install/nav2_simple_commander/lib/python3.8/site-packages",
+        "/home/redback/nav2_galactic/install/nav2_msgs/lib/python3.8/site-packages",
+        "/home/redback/nav2_galactic/build/nav2_gazebo_spawner",
+        "/home/redback/nav2_galactic/install/nav2_gazebo_spawner/lib/python3.8/site-packages",
+        "/home/redback/nav2_galactic/install/nav2_common/lib/python3.8/site-packages",
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ]
+}

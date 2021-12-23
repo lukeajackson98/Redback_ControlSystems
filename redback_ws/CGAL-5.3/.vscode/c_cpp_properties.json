@@ -1,0 +1,44 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/redback/nav2_galactic/install/nav2_controller/include/**",
+        "/home/redback/nav2_galactic/install/dwb_plugins/include/**",
+        "/home/redback/nav2_galactic/install/dwb_critics/include/**",
+        "/home/redback/nav2_galactic/install/dwb_core/include/**",
+        "/home/redback/nav2_galactic/install/nav_2d_utils/include/**",
+        "/home/redback/nav2_galactic/install/dwb_msgs/include/**",
+        "/home/redback/nav2_galactic/install/nav_2d_msgs/include/**",
+        "/home/redback/nav2_galactic/install/nav2_waypoint_follower/include/**",
+        "/home/redback/nav2_galactic/install/nav2_theta_star_planner/include/**",
+        "/home/redback/nav2_galactic/install/nav2_smac_planner/include/**",
+        "/home/redback/nav2_galactic/install/nav2_regulated_pure_pursuit_controller/include/**",
+        "/home/redback/nav2_galactic/install/nav2_recoveries/include/**",
+        "/home/redback/nav2_galactic/install/nav2_planner/include/**",
+        "/home/redback/nav2_galactic/install/nav2_navfn_planner/include/**",
+        "/home/redback/nav2_galactic/install/nav2_bt_navigator/include/**",
+        "/home/redback/nav2_galactic/install/nav2_core/include/**",
+        "/home/redback/nav2_galactic/install/costmap_queue/include/**",
+        "/home/redback/nav2_galactic/install/nav2_costmap_2d/include/**",
+        "/home/redback/nav2_galactic/install/nav2_voxel_grid/include/**",
+        "/home/redback/nav2_galactic/install/nav2_rviz_plugins/include/**",
+        "/home/redback/nav2_galactic/install/nav2_map_server/include/**",
+        "/home/redback/nav2_galactic/install/nav2_lifecycle_manager/include/**",
+        "/home/redback/nav2_galactic/install/nav2_behavior_tree/include/**",
+        "/home/redback/nav2_galactic/install/nav2_amcl/include/**",
+        "/home/redback/nav2_galactic/install/nav2_util/include/**",
+        "/home/redback/nav2_galactic/install/nav2_msgs/include/**",
+        "/opt/ros/galactic/include/**",
+        "/home/redback/Redback_ControlSystems/redback_ws/CGAL-5.3/include/**",
+        "/home/redback/Redback_ControlSystems/redback_ws/cgal_testing_pkg/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

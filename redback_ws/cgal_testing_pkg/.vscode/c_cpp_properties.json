@@ -10,8 +10,7 @@
                 "/opt/ros/galactic/include/**",
                 "/opt/ros/galactic/include/rclcpp/**",
                 "/usr/include/**",
-                "${workspaceFolder}/**",
-                "/home/redback/Redback_ControlSystems/CGAL-5.3/**"
+                "${workspaceFolder}/**"
             ],
             "name": "ROS"
         }

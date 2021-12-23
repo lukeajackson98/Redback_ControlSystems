@@ -14,9 +14,7 @@ include_directories(
 )
 
 add_executable(cgal_testing src/cgal_testing.cpp)
-ament_target_dependencies(cgal_testing rclcpp cgal)
-
-
+ament_target_dependencies(cgal_testing rclcpp)
 
 
 if(BUILD_TESTING)
